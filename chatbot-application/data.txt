@@ -1,0 +1,199 @@
+New York
+London
+Tokyo
+Paris
+Beijing
+Moscow
+Cairo
+Delhi
+Rome
+Bangkok
+Sydney
+Toronto
+Los Angeles
+Chicago
+Houston
+Miami
+Dubai
+Singapore
+Barcelona
+Berlin
+Madrid
+Seoul
+Mumbai
+Shanghai
+Buenos Aires
+Istanbul
+Cape Town
+Rio de Janeiro
+Athens
+Vienna
+Amsterdam
+Zurich
+Geneva
+Stockholm
+Oslo
+Helsinki
+Copenhagen
+Warsaw
+Prague
+Budapest
+Lisbon
+Brussels
+Munich
+Frankfurt
+Hamburg
+Dallas
+San Francisco
+Boston
+Washington D.C.
+Philadelphia
+Atlanta
+Seattle
+Denver
+Phoenix
+San Diego
+Austin
+Nashville
+Las Vegas
+New Orleans
+Orlando
+Miami Beach
+Key West
+Yellowstone National Park
+Grand Canyon National Park
+Yosemite National Park
+Zion National Park
+Rocky Mountain National Park
+Glacier National Park
+Great Smoky Mountains National Park
+Grand Teton National Park
+Acadia National Park
+Bryce Canyon National Park
+Arches National Park
+Death Valley National Park
+Mount Rushmore
+Statue of Liberty
+Eiffel Tower
+Big Ben
+Taj Mahal
+Great Wall of China
+Machu Picchu
+Stonehenge
+Colosseum
+Pyramids of Giza
+Angkor Wat
+Sydney Opera House
+Mount Fuji
+Niagara Falls
+Victoria Falls
+Amazon Rainforest
+Sahara Desert
+Antarctica
+Arctic
+United States
+Canada
+Mexico
+Brazil
+Argentina
+Chile
+Peru
+Colombia
+Venezuela
+Ecuador
+Bolivia
+Paraguay
+Uruguay
+Guyana
+Suriname
+France
+Germany
+Italy
+Spain
+United Kingdom
+Ireland
+Netherlands
+Belgium
+Switzerland
+Austria
+Sweden
+Norway
+Denmark
+Finland
+Poland
+Czech Republic
+Hungary
+Romania
+Bulgaria
+Greece
+Portugal
+Russia
+Japan
+China
+India
+South Korea
+Australia
+New Zealand
+Egypt
+South Africa
+Nigeria
+Kenya
+Morocco
+Algeria
+Tunisia
+Libya
+Saudi Arabia
+Iran
+Iraq
+Turkey
+Syria
+Jordan
+Israel
+Lebanon
+United Arab Emirates
+Qatar
+Kuwait
+Oman
+Bahrain
+Yemen
+Afghanistan
+Pakistan
+Bangladesh
+Nepal
+Sri Lanka
+Maldives
+Indonesia
+Malaysia
+Thailand
+Vietnam
+Philippines
+Singapore
+Myanmar
+Cambodia
+Laos
+Brunei
+East Timor
+Papua New Guinea
+Solomon Islands
+Vanuatu
+Fiji
+Samoa
+Tonga
+Kiribati
+Marshall Islands
+Micronesia
+Palau
+Nauru
+Tuvalu
+New Zealand
+Antarctica
+Arctic
+Mercury
+Venus
+Earth
+Mars
+Jupiter
+Saturn
+Uranus
+Neptune
+Pluto
