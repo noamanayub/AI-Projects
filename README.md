@@ -55,8 +55,6 @@ Thank you for visiting my repository!
 
 ---
 
-**GitHub Repository:** [CodeAlpha Internship Projects](https://github.com/noamanayub/codealpha_tasks.git)
-
 **LinkedIn:** [Your LinkedIn Profile](https://linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=noamanayub)
 
 ---
