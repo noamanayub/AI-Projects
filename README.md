@@ -1,6 +1,6 @@
-# CodeAlpha Internship Projects
+# AI Projects
 
-Welcome to my repository for the projects completed during my internship with CodeAlpha! This repository contains three separate projects, each focusing on different aspects of software development and machine learning. Below, you will find a brief overview of each project, along with links to their respective directories.
+Welcome to my repository! This repository contains three separate projects, each focusing on different aspects of software development and machine learning. Below, you will find a brief overview of each project.
 
 ## Projects
 
